@@ -1,0 +1,46 @@
+* {
+    margin: 0 auto;
+}
+
+
+
+
+h1,
+h2,
+p {
+    text-align: center;
+
+    .roboto-bold {
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+    }
+}
+
+p {
+    letter-spacing: 1px;
+    line-height: 1.2;
+}
+
+body {
+    min-height: 100svh;
+    background-color: blue;
+    /* background-image: url(fons-heijnsbroek-abstract-art-ffm4dW_OWiI-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.para {
+    color: red;
+}
+
+#third-para {
+    color: pink;
+    margin-top: 30px;
+}
